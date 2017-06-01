@@ -3,12 +3,13 @@ let mapleader = "\<Space>"
 filetype plugin indent on
 set encoding=utf-8
 syntax enable
-colorscheme monokai
+set background=dark
+colorscheme solarized
 set mouse=a
+set expandtab
 set shiftwidth=4
 set softtabstop=4
 set tabstop=4
-set expandtab
 set smarttab
 set autoindent
 set confirm
